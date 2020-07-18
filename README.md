@@ -1,16 +1,28 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2907122&assignment_repo_type=AssignmentRepo)
-# practica-final-por-equipos-2020
 
-Practica final por equipos prope 2020 
+# practica-final-por-equipos-verano-2020-itam-patyua
+# Violencia familiar en la Ciudad de México 
 
-**Antes de iniciar a trabajar:** sólo una persona de cada equipo debe darle click a la liga de gh-classroom que está indicada en la lista de estudiantes (Excel) en el repo del Propedéutico en la tab **practica_final_por_equipos**. Una vez que le dé click a la liga de gh-classroom tal persona invitará a sus integrantes de equipo como *Admins*. Para invitar a sus integrantes ir dentro del repo de gh-classroom a *Settings* -> *Manage Access* y enviar la invitación ingresando *users* de github de sus integrantes.
+## Introducción 
+Dada la situación de aislamiento social que se ha vivido en los últimos meses,consideramos pertinente preguntarnos por la evolución de los datos vinculados a violencia doméstica en Ciudad de México.
 
+## Objetivo
+El estudio pretende únicamente realizar una estimación del número de carpetas abiertas que se tendrán al finalizar este año y encontrar si existe una relación entre ellas y las alcaldías de la Ciudad de México
 
-# Objetivo
+# Lenguaje
+Python
 
-Aprendizaje y uso de la amplia gama de paquetes que proporcionan Python y R para análisis de datos y resolución de problemas.
-
-# Descripción
+# Referencias
+ * [Datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/).
+ * [Justicia y Seguridad ](https://datos.cdmx.gob.mx/explore/?refine.theme=Justicia+y+seguridad&sort=modified).
+ * [Pobreza](https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx).
+ 
+ # Integrantes
+|Integrante|User github|
+|:--:|:--:|
+|Santiago Battezzati|[santibate](https://github.com/santibate)|
+|Nayeli Arenas Morales|[arenitss](https://github.com/arenitss)|
+|Patricia|[patyua](https://github.com/patyua)|
 
 Cada equipo elige datos de su interés relacionados con alguno de los temas vistos en el curso: Cálculo Diferencial e Integral, Álgebra Lineal, Probabilidad o Estadística (como mínimo un tema debe considerarse y pueden mezclarse) para su análisis vía los paquetes de los lenguajes revisados en el curso.
 
@@ -80,7 +92,7 @@ Crear un nuevo `README.md` en la raíz de su repo colocando el tema, paquete a u
 
 |Integrante|User github|
 |:--:|:--:|
-|Erica|[erica80]()|
+|Eric|[erica80]()|
 |Erick|[palmoreck](https://github.com/palmoreck)|
 
 
