@@ -5,7 +5,7 @@
 # Politólogos vs Python 
 
 ## Introducción 
-Dada la situación de aislamiento social que se ha vivido en los últimos meses,consideramos pertinente preguntarnos por la evolución de los datos vinculados a violencia doméstica en Ciudad de México.
+Dada la situación de aislamiento social que se ha vivido en los últimos meses,consideramos pertinente preguntarnos por la evolución de los datos vinculados a violencia familiar en Ciudad de México.
 
 ## Objetivo
 El estudio pretende únicamente realizar una estimación del número de carpetas abiertas que se tendrán al finalizar este año y encontrar si existe una relación entre ellas y las alcaldías de la Ciudad de México
