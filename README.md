@@ -23,4 +23,4 @@ Python3
 |:--:|:--:|
 |Santiago Battezzati|[santibate](https://github.com/santibate)|
 |Nayeli Arenas Morales|[arenitss](https://github.com/arenitss)|
-|Patricia|[patyua](https://github.com/patyua)|
+|Patricia Urriza Arellano|[patyua](https://github.com/patyua)|
